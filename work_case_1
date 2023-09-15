@@ -1,1 +1,6 @@
 
+Branch Switching: The git checkout command allows you to switch between different branches in the repository. Branches enable you to separate the project's history and develop it in parallel.
+Synchronization with Remote Repository: The git push and git pull commands are used to interact with remote repositories. git push sends changes to the server, while git pull updates your local repository with changes made by others.
+Commit History: The git log command lets you view the commit history of the repository. It displays a list of commits, their hash sums, authors, dates, and messages.
+Branching and Merging: Git allows you to create branches for working on specific features or tasks and then merge them into the main branch using the git merge command.
+
